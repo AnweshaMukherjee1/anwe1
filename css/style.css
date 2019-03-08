@@ -102,7 +102,7 @@ span.menu {
   margin-right: 13em;
 }
 .header{
-	background: url(../images/anoy.jpg) no-repeat 0px -127px;
+	background: url(../images/) no-repeat 0px -127px;
 	
   background-size: cover;
   min-height: 600px;
@@ -240,7 +240,7 @@ label{
 .about-left{
 	float: left;
   width: 48.2%;
-  background: url(../images/anoy.jpg) no-repeat 0px -113px;
+  background: url(../images/IMG_20180410_202926_844.jpg) no-repeat 0px -113px;
   min-height: 302px;
   background-size: cover;
 }
